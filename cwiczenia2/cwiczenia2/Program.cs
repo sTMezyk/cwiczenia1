@@ -14,6 +14,11 @@ static int CalculateAverage(int[] values)
     return values.Sum() / values.Length;
 }
 
+static int CalculateMax(int[] values)
+{
+    return values.Max();
+}
+
 Console.WriteLine("Hello, World 6!");
 
 Console.WriteLine("Hello, World 6!");
