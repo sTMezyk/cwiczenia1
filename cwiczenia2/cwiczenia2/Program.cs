@@ -19,6 +19,11 @@ static int CalculateMax(int[] values)
     return values.Max();
 }
 
+static int CalculateMin(int[] values)
+{
+    return values.Min();
+}
+
 Console.WriteLine("Hello, World 6!");
 
 Console.WriteLine("Hello, World 6!");
