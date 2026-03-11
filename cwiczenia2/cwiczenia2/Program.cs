@@ -13,3 +13,5 @@ static int CalculateAverage(int[] values)
 {
     return values.Sum() / values.Length;
 }
+
+Console.WriteLine("Hello, World 6!");
